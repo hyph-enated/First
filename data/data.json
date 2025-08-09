@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Brett",
+    "shift": "mid",
+    "team": "a1"
+  },
+  {
+    "name": "Liza",
+    "shift": "night",
+    "team": "a1"
+  },
+  {
+    "name": "a",
+    "shift": "1",
+    "team": "1"
+  },
+  {
+    "name": "b",
+    "shift": "2",
+    "team": "2"
+  },
+  {
+    "name": "c",
+    "shift": "3",
+    "team": "3"
+  }
+]
